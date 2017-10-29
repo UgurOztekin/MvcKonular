@@ -11,7 +11,6 @@ namespace Demo_Project001.Models
         [Key]
         [MaxLength(30)]
         public string TeamName { get; set; }
-
         [MaxLength(100)]
         public string City { get; set; }
 

@@ -8,6 +8,7 @@ namespace Demo_Project001.Models
     public class Antrenor
     {
         public int Id { get; set; }
+        public string Name { get; set; }
 
     }
 }
