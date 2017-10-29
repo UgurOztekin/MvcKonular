@@ -166,6 +166,7 @@
       <DependentUpon>201710291745172_ilkMigrate.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Antrenor.cs" />
     <Compile Include="Models\AppDbContext.cs" />
     <Compile Include="Models\DummyData.cs" />
     <Compile Include="Models\Player.cs" />
